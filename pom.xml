@@ -4,7 +4,7 @@
 
     <groupId>rahadian.prast</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <packaging>jar</packaging>
 
@@ -141,7 +141,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:rahadianprasetya/petclinic.git</developerConnection>
-      <tag>pet-clinic-1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
