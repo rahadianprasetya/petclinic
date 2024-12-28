@@ -6,8 +6,8 @@ import lombok.Setter;
 import java.time.LocalDate;
 
 /**
- * @Author ian
- * @create 28/12/24 17.43
+ * Author ian
+ * create 28/12/24 17.43
  */
 @Getter
 @Setter

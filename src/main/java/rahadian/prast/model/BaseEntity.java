@@ -12,8 +12,8 @@ import javax.persistence.MappedSuperclass;
 import java.io.Serializable;
 
 /**
- * @Author ian
- * @create 28/12/24 18.10
+ * Author ian
+ * create 28/12/24 18.10
  */
 @Getter
 @Setter

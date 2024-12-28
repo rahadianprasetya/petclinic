@@ -8,8 +8,8 @@ import lombok.Setter;
 import javax.persistence.MappedSuperclass;
 
 /**
- * @Author ian
- * @create 28/12/24 17.41
+ * Author ian
+ * create 28/12/24 17.41
  */
 @Getter
 @Setter
