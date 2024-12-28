@@ -101,6 +101,7 @@
                 <version>2.5.1</version>
                 <configuration>
                     <goals>install</goals>
+                    <autoVersionSubmodules>true</autoVersionSubmodules>
                 </configuration>
             </plugin>
             <plugin>
@@ -141,7 +142,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:rahadianprasetya/petclinic.git</developerConnection>
-      <tag>HEAD</tag>
+        <tag>HEAD</tag>
   </scm>
 
 </project>
