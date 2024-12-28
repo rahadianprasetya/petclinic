@@ -3,6 +3,7 @@ package rahadian.prast.model;
 import lombok.Getter;
 import lombok.Setter;
 
+import javax.persistence.Entity;
 import java.time.LocalDate;
 
 /**
@@ -11,6 +12,7 @@ import java.time.LocalDate;
  */
 @Getter
 @Setter
+@Entity
 public class Pet extends BaseEntity{
 
     private PetType petType;

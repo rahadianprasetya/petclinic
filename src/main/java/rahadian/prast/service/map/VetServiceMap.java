@@ -1,8 +1,10 @@
 package rahadian.prast.service.map;
 
+import org.springframework.stereotype.Service;
 import rahadian.prast.model.Owner;
 import rahadian.prast.model.Vet;
 import rahadian.prast.service.CrudService;
+import rahadian.prast.service.VetService;
 
 import java.util.Set;
 
@@ -10,7 +12,8 @@ import java.util.Set;
  * Author ian
  * create 28/12/24 21.21
  */
-public class VetServiceMap extends AbstractMapService<Vet, Long> implements CrudService<Vet, Long> {
+@Service
+public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetService {
 
     @Override
     public Set<Vet> findAll() {
