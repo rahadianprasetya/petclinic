@@ -7,15 +7,9 @@ import lombok.Setter;
  * @Author ian
  * @create 28/12/24 17.45
  */
-
+@Getter
+@Setter
 public class PetType {
     private String name;
 
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
 }
