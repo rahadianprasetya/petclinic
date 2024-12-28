@@ -4,8 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @Author ian
- * @create 28/12/24 15.34
+ * Author ian
+ * create 28/12/24 15.34
  */
 @SpringBootApplication
 public class PetClinicApplication {
