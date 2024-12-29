@@ -10,7 +10,6 @@ import rahadian.prast.model.Vet;
 import rahadian.prast.service.OwnerService;
 import rahadian.prast.service.VetService;
 
-import java.util.List;
 import java.util.Set;
 
 /**
